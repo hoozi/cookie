@@ -1,3 +1,4 @@
+//from http://www.html1.freeiz.com/Cookie_Script.html
 var docCookies = {
   getItem: function (sKey) {
     if (!sKey) { return null; }
